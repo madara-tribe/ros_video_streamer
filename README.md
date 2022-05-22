@@ -8,7 +8,6 @@
 ## Guset OS
 - Jetson Nano
 - ROS melodic
-- 
 
 # How to use
 
