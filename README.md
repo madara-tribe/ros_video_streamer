@@ -1,5 +1,15 @@
 # Usb camera video stream by ROS
 
+# ENV
+## Host OS
+- Mac OS
+- ROS noetic
+
+## Guset OS
+- Jetson Nano
+- ROS melodic
+- 
+
 # How to use
 
 ```zsh
@@ -27,6 +37,7 @@ $ ifconfig
 
 # stracture
 
+<img width="877" alt="stracture" src="https://user-images.githubusercontent.com/48679574/169679351-5f35c403-5bf6-4518-b603-2dc9b5b3a017.png">
 
 
 # References
