@@ -31,7 +31,7 @@ $ rosrun ros_video_stream ros_video_stream _port:=10000
 ```
 
 ```zsh
-# access address
+# access to browser
 topic_name = /usb_cam/image_raw
 http://{device_ip_adress}:10000/stream?topic={topic_name}
 
