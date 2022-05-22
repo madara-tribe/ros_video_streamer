@@ -1,4 +1,4 @@
-# USB camera video stream by ROS
+# USB camera(video) stream by ROS
 
 # ENV
 ## Host OS
