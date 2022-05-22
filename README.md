@@ -4,8 +4,7 @@ By using micro device like Jetson nano, capture image and send these to remote H
 
 and display and check Host PC browser.
 
-<img width="877" alt="stracture" src="https://user-images.githubusercontent.com/48679574/169679351-5f35c403-5bf6-4518-b603-2dc9b5b3a017.png">
-
+<img width="892" alt="staracture" src="https://user-images.githubusercontent.com/48679574/169679502-6959b8d2-0277-4a76-b143-94898e0c798c.png">
 
 # ENV and Version
 ## Host OS
