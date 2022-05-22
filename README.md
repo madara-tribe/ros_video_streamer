@@ -1,6 +1,13 @@
 # USB camera(video) stream by ROS
 
-# ENV
+By using micro device like Jetson nano, capture image and send these to remote Host PC.
+
+and display and check Host PC browser.
+
+<img width="877" alt="stracture" src="https://user-images.githubusercontent.com/48679574/169679351-5f35c403-5bf6-4518-b603-2dc9b5b3a017.png">
+
+
+# ENV and Version
 ## Host OS
 - Mac OS
 - ROS noetic
@@ -33,10 +40,6 @@ http://{device_ip_adress}:10000/stream?topic={topic_name}
 $ ifconfig
 ```
 
-
-# stracture
-
-<img width="877" alt="stracture" src="https://user-images.githubusercontent.com/48679574/169679351-5f35c403-5bf6-4518-b603-2dc9b5b3a017.png">
 
 
 # References
